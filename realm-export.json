@@ -790,7 +790,7 @@
       "clientAuthenticatorType": "client-secret",
       "secret": "**********",
       "redirectUris": [
-        "http://localhost:8080/login/oauth2/code/oauth2-demo-thymeleaf-client"
+        "http://localhost:8081/login/oauth2/code/oauth2-demo-thymeleaf-client"
       ],
       "webOrigins": [],
       "notBefore": 0,
