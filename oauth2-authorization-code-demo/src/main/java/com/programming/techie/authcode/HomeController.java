@@ -1,4 +1,4 @@
-package com.programming.techie.authcode.controller;
+package com.programming.techie.authcode;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
